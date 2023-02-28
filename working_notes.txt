@@ -1,0 +1,8 @@
+Intro:
+This a task-based internship having due dates.
+The internship program is well-designed to understand every stage of 
+the data science lifecycle in the industry. Have global exposure by working in team
+having people from different cities of the world. 
+
+
+
