@@ -1,4 +1,4 @@
-name: myenv
+name: Data_Glacier_DS_intern
 channels:
   - defaults
 dependencies:
